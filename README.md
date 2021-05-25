@@ -1,7 +1,7 @@
 # stripe-coldfusion
 Coldfusion stripe transaction using stripe-java library
 
-1. Using java code created Runnable jar StripeChargeGit.java
+1. Using java code created Runnable jar stripe-git.jar
 2. put the same jar inside coldfusion lib folder
 3. call chargeStripe method from coldfusion
 
